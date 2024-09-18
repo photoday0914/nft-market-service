@@ -27,7 +27,5 @@
     "typescript": "^3.2.4",
     "webpack": "^4.29.0",
     "webpack-node-externals": "^1.7.2"
-  },
-  "author": "Silvio Paganini <silvio@fluuu.id>",
-  "license": "MIT"
+  },  
 }
